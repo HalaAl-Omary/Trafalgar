@@ -216,3 +216,58 @@ right: -53px;
 .articles .card{
        max-width: 100%;
 }
+.articles {
+position: relative;
+text-align: center;
+color: #000000;
+}
+.articles svg{
+    margin-top: 26px;
+    margin-bottom: 79px;
+}
+.articles .cards-bg{
+    position: absolute;
+   right: 0;
+    z-index: -1;
+    
+}
+
+.articles .container .square{
+    position: absolute;
+    top: 160px;
+    left: 80px;
+z-index: -1;
+}
+.articles .btn{
+    background-color: white;
+    color: var(--primary);
+    border-color: var(--primary);
+}
+.section3-img img {
+    width: 100%;
+  }
+  .section3-content {
+    max-width: 486px;
+  }
+  .section3-content svg{
+    margin-top: 26px;
+    margin-bottom: 31px;
+  }
+  .section3-content .btn{
+   margin-top: 37px;
+   
+  }
+  .providers {
+    height: 100vh;
+  }
+  .providers .container {
+    height: 100%;
+  }
+  .providers .flex {
+    height: 100%;
+  }
+.providers .btn{
+    background-color: white;
+    color: var(--primary);
+    border-color: var(--primary);
+}

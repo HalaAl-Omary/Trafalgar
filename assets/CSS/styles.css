@@ -5,7 +5,8 @@
   box-sizing: border-box;
 }
 .container {
-  width: 80%;
+  width: calc(100% - 30px);
+  max-width: 1247px;
   margin: auto;
 }
 .flex {

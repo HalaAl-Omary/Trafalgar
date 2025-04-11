@@ -50,4 +50,17 @@
   width: 100%;
 
 }
+.articles .flex {
+    gap: 2rem;
+    }
+    
+    .articles .card{
+        width: 50%;
+    } 
+
+}
+@media screen and (max-width :768px){
+    .articles .card{
+        width: 100%;
+    }          
 }

@@ -186,3 +186,33 @@ top: -19px;
 right: -53px;
 
 }
+.articles .card{
+    width: 350px;
+    padding: 0;
+  
+}
+.articles .card img{
+    width: 100%;
+}
+.card-body{
+    padding: 24px 33px;
+}
+.card-body p{
+    margin-top: 12px;
+    margin-bottom: 25px;
+}
+.card-body a{
+    color: var(--primary);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.card-body a i{
+    font-size: 13px;
+}
+.articles .flex{
+    flex-wrap: wrap;
+}
+.articles .card{
+       max-width: 100%;
+}

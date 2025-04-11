@@ -39,4 +39,15 @@
   .services .card {
     max-width: 100%;
   }
+  .services .cards-bg {
+    width:100%;
+  }
+  .testimonial.flex{
+ flex-direction: column;
+ gap: 40px;
+}
+.testimonial .content .testimonial .qoute{
+  width: 100%;
+
+}
 }

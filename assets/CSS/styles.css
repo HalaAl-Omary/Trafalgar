@@ -271,3 +271,34 @@ z-index: -1;
     color: var(--primary);
     border-color: var(--primary);
 }
+.section4-img img {
+    width: 100%;
+  }
+  .section4-content {
+    max-width: 462px;
+  }
+  .section4-content svg{
+    margin-top: 30px;
+    margin-bottom: 31px;
+  }
+  .section4-content .btn{
+   margin-top: 40px;
+   
+  }
+  .Download {
+    height: 100vh;
+  }
+  .Download .container {
+    height: 100%;
+  }
+  .Download .flex {
+    height: 100%;
+  }
+.Download .btn{
+    background-color: white;
+    color: var(--primary);
+    border-color: var(--primary);
+}
+.Download .btn span{
+margin-right: 1.6px;
+}

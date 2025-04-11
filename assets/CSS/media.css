@@ -67,7 +67,17 @@
         flex-direction: column;
         gap: 3rem;
       }
-      .providers-content {
+      .section3-content {
+        width: 100%;
+      }
+      .Download {
+        margin: 3rem 0;
+      }
+      .Download .flex {
+        flex-direction: column-reverse;
+        gap: 3rem;
+      }
+      .section4-content {
         width: 100%;
       }
 }

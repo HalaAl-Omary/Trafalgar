@@ -305,7 +305,7 @@ small {
   color: hsla(0, 0%, 100%, 1);
   font-size: 18px;
 }
-.footer-traflagar p{
+.footer-traflagar .para{
   color: hsla(0, 0%, 100%, 1);
   font-size: 18px;
 }
@@ -340,7 +340,7 @@ footer .footer-traflagar {
   margin-top: 118px;
   margin-bottom: 113px;
 }
-footer p {
+footer .para {
   margin-top: 22px;
   margin-bottom: 31px;
 }

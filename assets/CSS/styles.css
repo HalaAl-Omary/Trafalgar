@@ -300,9 +300,12 @@ section {
 footer {
   color: white;
 }
-footer a,
-p,
+.footer .container a,
 small {
+  color: hsla(0, 0%, 100%, 1);
+  font-size: 18px;
+}
+.footer-traflagar p{
   color: hsla(0, 0%, 100%, 1);
   font-size: 18px;
 }
